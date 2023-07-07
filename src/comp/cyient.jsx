@@ -628,7 +628,7 @@ const Cyient = () => {
           </Col>
         </Row>
       </Container>
-      <button onClick={handleExportData}>Export Data</button>
+      
     </div>
   );
 };
